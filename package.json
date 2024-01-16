@@ -1,0 +1,22 @@
+{
+  "name": "be_skilltest_2nd",
+  "version": "1.0.0",
+  "description": "working with csv files and representing its data to html table",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.2"
+  }
+}

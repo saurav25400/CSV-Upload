@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:honeydew ;
+    /* lavenderblush */
+}
+
+.parent-container{
+    display: flex;
+    /* gap:74rem; */
+    gap:14rem;
+}
+.parent-container input{
+    width:22rem;
+    border-radius: 5px;
+    height: 3rem;
+
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    gap:1rem;
+}
+/* .hello{
+    display: flex;
+    gap: 1rem;
+    width: 90rem;
+    justify-content: center !important;
+    margin-left: 13rem;
+    /* margin-top: 9rem; */
+/* } */ */
+.parent-container h1{
+    margin-top: 8rem;
+    margin-left: 40rem ;
+    width:18rem !important;
+}
+#upload-form input{
+    margin-top: 2rem;
+    margin-left: 48rem ;
+    width:38rem;
+    border-color: black;
+
+}
+.headers{
+    display: flex;
+    gap: 16rem;
+    margin-top:2rem;
+}
+#column-select{
+    border-radius: 5px;
+    width: 14rem;
+}
+.fa-solid{
+    position: relative;
+    right:2rem;
+    top:14px;
+}
+#icons{
+    position: absolute;
+    
+}
+.down-arrow-icon{
+    position: relative;
+    right: -0.8rem;
+    top: 2px;
+}
