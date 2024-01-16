@@ -49,6 +49,8 @@ body{
 #column-select{
     border-radius: 5px;
     width: 14rem;
+    height: 50px;
+    margin-right: 28px;
 }
 .fa-solid{
     position: relative;
